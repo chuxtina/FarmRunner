@@ -1,0 +1,23 @@
+compile.txt
+
+1) type "qmake -project"
+2) type "qmake"
+3) type "make"
+
+To run the game, type "./hw5"
+
+To start the game, press "space bar" or "start" button.
+
+Use the mouse to control the character.
+
+'p' to pause the game.
+
+'Escape key' to quit. 
+
+The point of the game is to get to the treasure chest. 
+
+Heart adds one to life.
+
+Touching bull, pig, bees, egg, or bullet will decrease one life.
+
+To win, the player must attain 35 points. 
